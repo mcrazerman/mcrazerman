@@ -30,11 +30,11 @@
 ## Связаться со мной
 <div>
   <a href="https://t.me/mcrazerman">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="telegram" alt="telegram" width="40" height="40"/>
+  </a>&nbsp
   <a href="mailto:mcrazerman@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="mcrazerman@gmail.com" alt="mcrazerman@gmail.com" width="40" height="40"/>&nbsp
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="mcrazerman@gmail.com" alt="mcrazerman@gmail.com" width="40" height="40"/>
+  </a>&nbsp
 </div>
 
 <!--
