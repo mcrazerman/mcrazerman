@@ -19,8 +19,24 @@
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-
 </div>
+
+## Тестовые артефакты
+[Чек-листы](https://github.com/mcrazerman/qa-checklists)<br>
+[Тест-кейсы](https://github.com/mcrazerman/qa-testcases)<br>
+[Баг-репорты](https://github.com/mcrazerman/qa-bugreports)
+
+
+## Связаться со мной
+<div>
+  <a href="https://t.me/mcrazerman">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp
+  </a>
+  <a href="mailto:mcrazerman@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="mcrazerman@gmail.com" alt="mcrazerman@gmail.com" width="40" height="40"/>&nbsp
+  </a>
+</div>
+
 <!--
 **mcrazerman/mcrazerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
