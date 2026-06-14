@@ -28,6 +28,8 @@
 [Тест-кейсы](https://github.com/mcrazerman/qa-testcases)<br>
 [Баг-репорты](https://github.com/mcrazerman/qa-bugreports)
 
+## Сертификаты
+
 
 ## Связаться со мной
 <div>
