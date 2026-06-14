@@ -29,7 +29,7 @@
 [Баг-репорты](https://github.com/mcrazerman/qa-bugreports)
 
 ## Сертификаты
-
+![Header](https://github.com/mcrazerman/mcrazerman/blob/main/assets/stepik-certificate.png)
 
 ## Связаться со мной
 <div>
