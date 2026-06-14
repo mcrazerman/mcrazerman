@@ -21,6 +21,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://github.com/mcrazerman/mcrazerman/blob/main/assets/gitlab-logo-500-rgb.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
 </div>
 
 ## Тестовые артефакты
