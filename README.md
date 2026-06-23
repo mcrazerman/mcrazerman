@@ -28,7 +28,8 @@
 ## Тестовые артефакты
 [Чек-листы](https://github.com/mcrazerman/qa-checklists)<br>
 [Тест-кейсы](https://github.com/mcrazerman/qa-testcases)<br>
-[Баг-репорты](https://github.com/mcrazerman/qa-bugreports)
+[Баг-репорты](https://github.com/mcrazerman/qa-bugreports)<br>
+[Тестирование API](https://github.com/mcrazerman/qa-postman_collections)
 
 ## Сертификаты
 ![Header](https://github.com/mcrazerman/mcrazerman/blob/main/assets/stepik-certificate.png)
