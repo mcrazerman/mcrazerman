@@ -1,4 +1,4 @@
-![Header](https://github.com/mcrazerman/mcrazerman/blob/main/assets/BULAT%20KAMALOV.png)
+![Header](https://github.com/mcrazerman/mcrazerman/blob/main/assets/sky.jpg)
 
 
 ## Обо мне
