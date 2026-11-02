@@ -11,7 +11,6 @@
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/YouTrack_Icon.svg" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="microsoft sql server" alt="microsoft sql server" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
@@ -23,14 +22,9 @@
   <img src="https://github.com/mcrazerman/mcrazerman/blob/main/assets/gitlab-logo-500-rgb.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp;
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
 </p>
-
-## Тестовые артефакты
-[Чек-листы](https://github.com/mcrazerman/qa-checklists)<br>
-[Тест-кейсы](https://github.com/mcrazerman/qa-testcases)<br>
-[Баг-репорты](https://github.com/mcrazerman/qa-bugreports)<br>
-[Тестирование API](https://github.com/mcrazerman/qa-postman_collections)<br>
-[Авто-тесты (pytest)](https://github.com/mcrazerman/api-pytest-portfolio)
 
 ## Сертификаты
 ![Header](https://github.com/mcrazerman/mcrazerman/blob/main/assets/stepik-certificate.png)
@@ -46,6 +40,13 @@
 </div>
 
 <!--
+
+## Тестовые артефакты
+[Чек-листы](https://github.com/mcrazerman/qa-checklists)<br>
+[Тест-кейсы](https://github.com/mcrazerman/qa-testcases)<br>
+[Баг-репорты](https://github.com/mcrazerman/qa-bugreports)<br>
+[Тестирование API](https://github.com/mcrazerman/qa-postman_collections)<br>
+[Авто-тесты (pytest)](https://github.com/mcrazerman/api-pytest-portfolio)
 **mcrazerman/mcrazerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
